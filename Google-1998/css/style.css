@@ -1,0 +1,79 @@
+.banner{
+    width:351px;
+    height:113px;
+    margin: 50px auto 10px auto;
+}
+
+.border1{
+    width: 300px;
+    border: 1px solid green;
+    padding: 50px;
+    margin: 50px auto 10px auto;
+}
+
+.searchbox{
+    width:vhr;
+    height:auto;
+    text-align: center;
+    background-color: #eeeeee;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.searchbox_input{
+    width: 400px;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h5{
+    text-align: center;
+}
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.cards{
+    width:vhr;
+}
+.card1{
+    background-color:rgba(19, 122, 129, 0.5);
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 120px;
+    float:left;
+}
+.card2{
+    background-color:rgba(19, 122, 129, 0.65);
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    height: 120px;
+    float:left;
+}
+.card3{
+    background-color:rgba(19, 122, 129, 0.7);
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 120px;
+    float:left;
+}
+
+.card1 ul li{
+    list-style:none;
+    text-align: center;
+}
+
+.card2 ul li{
+    list-style:none;
+    text-align: center;
+}
+
+.card3 ul li{
+    list-style:none;
+    text-align: center;
+}
+    
